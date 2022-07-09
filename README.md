@@ -1,2 +1,2 @@
 # Python-StockAnaylsis
-Analyzing stocks using Jupyter notebook and python libraries
+Analyzing Tesla, Google and Amazon stocks using Jupyter notebook and python libraries
